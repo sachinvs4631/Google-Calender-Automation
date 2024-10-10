@@ -12,9 +12,29 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "varBrowserWindow&Sequence_2",
+        "ExtractDataTable&Sequence_1",
+        "varEmail&Sequence_2",
         "varPassword&Sequence_2",
-        "varEmail&Sequence_2"
+        "ExtractDataTable&Sequence_2",
+        "varPasswordElement&Sequence_4",
+        "varDecryptedPassword&Sequence_4",
+        "varDTExtractedData&Sequence_16"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "argBrowser"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main(Autosaved).xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "varEmail&Sequence_2",
+        "varPassword&Sequence_2",
+        "varBrowser&Sequence_2",
+        "varPasswordElement&Sequence_4",
+        "varDecryptedPassword&Sequence_4"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
