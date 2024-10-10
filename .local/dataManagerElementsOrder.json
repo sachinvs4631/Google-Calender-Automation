@@ -12,6 +12,13 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "varTotalEvents&Sequence_24",
+        "varBusiestDay&Sequence_24",
+        "dayOfWeekDistribution&Sequence_24",
+        "vardtEvents&Sequence_24",
+        "variable2&Sequence_24",
+        "varEventDistribution&Sequence_24",
+        "varSummaryTable&Sequence_24",
         "ExtractDataTable&Sequence_1",
         "varEmail&Sequence_2",
         "varPassword&Sequence_2",
